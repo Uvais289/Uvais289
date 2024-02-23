@@ -29,7 +29,7 @@
 
 
 - 👨‍💻 All of my projects are available at [https://amazing-moxie-5c155e.netlify.app/](https://amazing-moxie-5c155e.netlify.app/)
-
+- 
 
 
 - 💬 Ask me about **react, python, express, etc..**
