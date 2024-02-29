@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amazing-moxie-5c155e.netlify.app/](https://amazing-moxie-5c155e.netlify.app/)
 
-- 💬 Ask me about **react, python, express, etc..**
+- 💬 Ask me about **react, python, express, mongodb, JavaScript etc..**
 
 - 📫 How to reach me **sheikhuvais289@gmail.com**
 
